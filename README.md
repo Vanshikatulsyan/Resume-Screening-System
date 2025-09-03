@@ -41,7 +41,7 @@ The pipeline begins by processing resumes into a vector storage. Upon receiving 
 To set up the project locally:
 ```
 # Clone the project
-git clone https://github.com/Jiya873/Screening-System.git
+[git clone https://github.com/Vanshikatulsyan/Resume-Screening-System.git]
 
 # Install dependencies
 pip install requirements.txt
